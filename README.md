@@ -33,7 +33,7 @@ Anyone can choose topics from here or add new one into it.
 | ----- | ---- | ---- | ----------- |
 | What is explain syntax and how to use it to help optimize query | wanjing.low | Done |[PDF here](https://confluence.mfortune.co.uk/download/attachments/26821121/Explain%20syntax.pptx?version=2&modificationDate=1525420792481&api=v2) |
 | What is OLAP(On-line analytical processing) and features of it | travis.tsai | Done |[PDF here](https://confluence.mfortune.co.uk/display/DABI/Knowledge+Share+Slides?preview=/26821121/26823727/OLAP.pdf). OLAP Cube a.k.a. Multi-dimensional Cube |
-| Difference between No-SQL and RMDB and how to choose it for different scenario | | | |
+| Difference between No-SQL and RMDB and how to choose it for different scenario | chingching.lee | 2018-05-25 | |
 
 ##### Python
 ---
@@ -51,7 +51,7 @@ Anyone can choose topics from here or add new one into it.
 ---
 | Topic | Owner| Date | Description |
 | ----- | ---- | ---- | ----------- |
-| How to use [Sankey diagram](https://developers.google.com/chart/interactive/docs/gallery/sankey) to draw user action path | luyang.tang | 2018-05-18 |[PDF here](https://confluence.mfortune.co.uk/download/attachments/26821121/sankey-diagram-d3.pdf?version=1&modificationDate=1524825765231&api=v2) |
+| How to use [Sankey diagram](https://developers.google.com/chart/interactive/docs/gallery/sankey) to draw user action path | luyang.tang | Done |[PDF here](https://confluence.mfortune.co.uk/download/attachments/26821121/sankey-diagram-d3.pdf?version=1&modificationDate=1524825765231&api=v2) |
 | How to use Nodejs to start an server, and write an html diagram | chingching.lee | | |
 | What is ECMA 6 and how to use Babel to write javascript code | travis.tsai | Done |[PDF here](https://confluence.mfortune.co.uk/display/DABI/Knowledge+Share+Slides?preview=/26821121/26825651/ES6.pdf)|
 | How to use Vue.js to write html page | wanjing.low | | |
@@ -60,15 +60,15 @@ Anyone can choose topics from here or add new one into it.
 ---
 | Topic | Owner| Date | Description |
 | ----- | ---- | ---- | ----------- |
-| Overview Introduction | will.hsu | 2018-05-18 | [IPYNB here](./ML/Introduction/ml-introduction.ipynb) |
+| Overview Introduction | will.hsu | Done | [IPYNB here](./ML/Introduction/ml-introduction.ipynb) |
 | Linear Regression | luyang.tang | | |
 | How to validate model results | chingching.lee | Done | [pptx here](https://confluence.mfortune.co.uk/display/DABI/Knowledge+Share+Slides?preview=/26821121/26825922/How%20to%20validate%20model%20results%20-%2020180511.pptx) |
 | Ordinary Least Squares Regression | wanjing.low | | |
-| Nearest Neighbor | travis.tsai | 2018-05-25 | |
+| Nearest Neighbor | travis.tsai | Done | [Introduction here](./ML/K-NearestNeighbors/K-NearestNeighborsIntroduction.ipynb), [Practice here](./ML/K-NearestNeighbors/k-NNPractice.ipynb) |
 | Decision Tree | luyang.tang | | |
-| Naive Bayes Classification | travis.tsai | | |
+| Naive Bayes Classification | travis.tsai | 2018-06-08 | |
 | Support Vector Machines | travis.tsai | | |
-| k-means clustering | | | |
+| k-means clustering | travis.tsai | | |
 | Association Rules | | | |
 | Random Forest | chingching.lee | | |
 
